@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.navigation {
+  display: flex;
+  justify-content: flex-end;
+  z-index: 2;
+}
+
+.navigation li {
+  display: inline;
+  justify-content: space-between;
+}
+
+.navigation li a {
+  padding: 20px;
+}
+
+.header {
+  margin: 0;
+  background: url(./images/header.jpg);
+  height: 825px;
+}
