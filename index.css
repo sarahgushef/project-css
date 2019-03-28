@@ -27,3 +27,18 @@ body {
   background: url(./images/header.jpg);
   height: 825px;
 }
+
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
+.two-col-grid {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  margin: 0 auto;
+}
+
+h3 {
+  text-align: center;
+}
