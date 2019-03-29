@@ -1,6 +1,6 @@
-/* body {
+body {
   margin: 0;
-} */
+}
 
 h2,
 h3 {
@@ -46,6 +46,11 @@ h3 {
 
 .carousel {
   text-align: center;
+}
+
+.avatar {
+  box-shadow: -20px -20px gray;
+  border-radius: 30px;
 }
 
 #social-media-icon > div > li > a > img {
