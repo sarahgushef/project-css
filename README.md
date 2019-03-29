@@ -1,5 +1,5 @@
-# My Personal Website (Insya Alloh)
+# Sarah Gushef's Personal Website
 
-This project should be like this
+Insya Alloh, This project should be like this:
 
-![image](./images/sarahgushef.com.jpg)
+![Screenshot](./images/sarahgushef.com.jpg)
