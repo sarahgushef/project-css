@@ -2,27 +2,34 @@ body {
   margin: 0;
 }
 
+header {
+  height: 850px;
+}
+
 .header-text {
-  margin-top: 250px;
-  margin-left: 550px;
-  width: 600px;
+  margin-top: 365px;
+  margin-left: 750px;
+  width: 450px;
+  color: whitesmoke;
+  font-family: "Ubuntu", sans-serif;
 }
 
 .header-text-welcome {
   display: block;
   font-size: 48px;
+  color: #c4c4c4;
 }
 
 .header-text-name {
   font-size: 64px;
   display: block;
-  text-align: center;
 }
 
 .header-text-page {
   font-size: 48px;
   display: block;
   text-align: right;
+  color: #c4c4c4;
 }
 
 h2,
@@ -52,7 +59,7 @@ h3 {
 
 .navigation div a {
   padding: 20px;
-  font-family: 'Righteous', cursive;
+  font-family: "Righteous", cursive;
   color: black;
   text-decoration-line: none;
 }
@@ -60,6 +67,7 @@ h3 {
 .header {
   margin: 0;
   background: url(./images/header.jpg);
+  background-repeat: no-repeat;
   min-height: 100vh;
   width: 100%;
 }
